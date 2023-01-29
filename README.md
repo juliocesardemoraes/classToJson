@@ -9,7 +9,7 @@ This is a single script that I made to automate an process(formatting text into 
 - [x] Feeds the text into the script created, and fix some mispelling errors.
 - [x] Script returns to me the proper object that will be rendered directly into my program.
 
-
+## Input/Output
 I feed the following questions, with an answer variable
 ```
 1- O condutor de veículo que se preocupa em avisar o outro que está rodando com o pneu murcho ou com a porta semifechada está:
@@ -49,3 +49,29 @@ And he returns it to me like this:
     "rightAnswer": 1
   }
 ```
+
+# Result
+I have managed to time each process that I was doing along with each upgrade I was making towards a better, more automated
+process.
+
+- No App to read / Writing all questions in hand / Transforming text -> Object in vscode => 1:30 hour
+
+- App that transform photo to text / Transforming text -> Object in vscode => 1:00 hour ( +33% performance from the first project)
+
+- App that transform photo to text / Transforming text -> Object in vscode/ using hotkeys properly => 50:00 minutes (+16.67% performance comparing to the last process)
+
+- App that transform photo to text / Transforming text -> Object in vscode/ using a macro(for hotkeys) => 44:00 minutes (+11% performance comparing to the last process)
+
+- App that transform photo to text / Transforming text -> Using the script => 20:00 minutes (+60% performance comparing to the last process)
+
+# Conclusion
+Took me about 2:30 hours for creating this script, but in each input it saves me about 1 hour of hassle, I have to create more than 20 classes yet, saving me easily 20+ hours. since it was implemented I created 400% more classes comparing to the original database. I know there's room for improvement, but for a small project is pretty good
+
+:white_check_mark: A 70 minutes faster process for each class created
+
+:white_check_mark: A whopping 77.7% increase in performance
+
+:white_check_mark: In overall a 20h+ faster process, considering all classes
+
+
+
