@@ -3,6 +3,14 @@
 ## About It
 This is a single script that I made to automate an process(formatting text into proper objects) that was bothering me.
 
+## How to run it
+
+Format the script to your liking but it's better used for common exams
+
+0 - clone the repo
+1 - npm install
+2 - node handleExam.js
+
 ## What's the process
 - [x] Get text from pictures that were taken from popular exams.
 - [x] App in the phone turns pictures into text.
