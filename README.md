@@ -7,9 +7,12 @@ This is a single script that I made to automate an process(formatting text into 
 
 Format the script to your liking but it's better used for common exams
 
-0 - clone the repo
-1 - npm install
-2 - node handleExam.js
+<ol>
+  <li>clone the repo</li>
+  <li>npm install</li>
+  <li>node handleExam.js</li>
+
+</ol>
 
 ## What's the process
 - [x] Get text from pictures that were taken from popular exams.
